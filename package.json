@@ -1,0 +1,20 @@
+{
+  "name": "api-de-ticket-de-suporte",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlael/API-de-ticket-de-suporte.git"
+  },
+  "author": "Alex Lael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexlael/API-de-ticket-de-suporte/issues"
+  },
+  "homepage": "https://github.com/alexlael/API-de-ticket-de-suporte#readme",
+  "description": "API de Ticket de Suporte"
+}
