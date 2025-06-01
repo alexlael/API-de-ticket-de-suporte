@@ -6,7 +6,7 @@ const route = routes.find((route) => {
 })
 
 if(route){
-    return route.controller(req, res);
+    return route.controller({req, res});
 }
 
 return res.writeHead(404).end("Not Found");
