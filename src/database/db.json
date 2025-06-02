@@ -8,6 +8,15 @@
       "status": "open",
       "created_at": "2025-06-02T14:18:16.909Z",
       "updated_at": "2025-06-02T14:18:16.909Z"
+    },
+    {
+      "id": "cede73a2-903e-4158-b05f-8c3541120c59",
+      "equipment": "Impressora",
+      "description": "Não imprime",
+      "user_name": "Alex De novo",
+      "status": "open",
+      "created_at": "2025-06-02T14:44:34.597Z",
+      "updated_at": "2025-06-02T14:44:34.597Z"
     }
   ]
 }
